@@ -1,0 +1,4 @@
+Deprecated==1.2.13
+pkg_resources==0.0.0
+redis==4.0.2
+wrapt==1.13.3
